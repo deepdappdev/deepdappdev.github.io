@@ -50944,24 +50944,24 @@ var app = (function () {
     			hr1 = element("hr");
     			t23 = space();
     			attr_dev(span0, "class", "font-semibold");
-    			add_location(span0, file$1, 192, 32, 6290);
-    			add_location(p0, file$1, 191, 32, 6253);
+    			add_location(span0, file$1, 192, 32, 6289);
+    			add_location(p0, file$1, 191, 32, 6252);
     			attr_dev(span1, "class", "font-semibold");
-    			add_location(span1, file$1, 195, 32, 6461);
-    			add_location(p1, file$1, 194, 32, 6424);
+    			add_location(span1, file$1, 195, 32, 6460);
+    			add_location(p1, file$1, 194, 32, 6423);
     			attr_dev(span2, "class", "font-semibold");
-    			add_location(span2, file$1, 198, 32, 6628);
-    			add_location(p2, file$1, 197, 32, 6591);
+    			add_location(span2, file$1, 198, 32, 6627);
+    			add_location(p2, file$1, 197, 32, 6590);
     			attr_dev(span3, "class", "font-semibold text-orange-600");
-    			add_location(span3, file$1, 204, 32, 7004);
-    			add_location(p3, file$1, 203, 32, 6967);
+    			add_location(span3, file$1, 204, 32, 7003);
+    			add_location(p3, file$1, 203, 32, 6966);
     			attr_dev(div0, "class", "mt-2 text-sm");
-    			add_location(div0, file$1, 187, 28, 5930);
-    			add_location(hr0, file$1, 239, 28, 9210);
+    			add_location(div0, file$1, 187, 28, 5929);
+    			add_location(hr0, file$1, 239, 28, 9209);
     			attr_dev(div1, "class", "my-2 flex flex-row justify-around");
-    			add_location(div1, file$1, 241, 28, 9309);
-    			add_location(hr1, file$1, 262, 28, 10617);
-    			add_location(li, file$1, 184, 28, 5842);
+    			add_location(div1, file$1, 241, 28, 9308);
+    			add_location(hr1, file$1, 262, 28, 10616);
+    			add_location(li, file$1, 184, 28, 5841);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, li, anchor);
@@ -51115,7 +51115,7 @@ var app = (function () {
     			p = element("p");
     			p.textContent = "Заказ принят! Направляйтесь к клиенту!";
     			attr_dev(p, "class", " font-semibold text-lg text-green-600");
-    			add_location(p, file$1, 189, 36, 6088);
+    			add_location(p, file$1, 189, 36, 6087);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -51147,8 +51147,8 @@ var app = (function () {
     			span = element("span");
     			span.textContent = "Детское кресло!";
     			attr_dev(span, "class", "font-semibold text-red-600");
-    			add_location(span, file$1, 201, 39, 6824);
-    			add_location(p, file$1, 201, 36, 6821);
+    			add_location(span, file$1, 201, 39, 6823);
+    			add_location(p, file$1, 201, 36, 6820);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -51213,22 +51213,22 @@ var app = (function () {
     			attr_dev(img0, "class", "w-8 h-8");
     			if (img0.src !== (img0_src_value = "./icons/place.svg")) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "alt", "placeMarker");
-    			add_location(img0, file$1, 214, 44, 7594);
+    			add_location(img0, file$1, 214, 44, 7593);
     			attr_dev(button0, "class", "order-btn bg-teal-400 svelte-13op47i");
-    			add_location(button0, file$1, 213, 40, 7467);
-    			add_location(div0, file$1, 212, 36, 7420);
+    			add_location(button0, file$1, 213, 40, 7466);
+    			add_location(div0, file$1, 212, 36, 7419);
     			attr_dev(img1, "class", "w-8 h-8");
     			if (img1.src !== (img1_src_value = "./icons/phone.svg")) attr_dev(img1, "src", img1_src_value);
     			attr_dev(img1, "alt", "placeMarker");
-    			add_location(img1, file$1, 221, 48, 8038);
+    			add_location(img1, file$1, 221, 48, 8037);
     			attr_dev(a, "href", a_href_value = "tel:" + /*order*/ ctx[16].phone);
-    			add_location(a, file$1, 220, 44, 7960);
+    			add_location(a, file$1, 220, 44, 7959);
     			attr_dev(button1, "class", "order-btn bg-green-400 svelte-13op47i");
-    			add_location(button1, file$1, 219, 40, 7875);
-    			add_location(div1, file$1, 218, 36, 7828);
-    			add_location(div2, file$1, 226, 36, 8322);
+    			add_location(button1, file$1, 219, 40, 7874);
+    			add_location(div1, file$1, 218, 36, 7827);
+    			add_location(div2, file$1, 226, 36, 8321);
     			attr_dev(div3, "class", "mt-3 mb-2 text-center flex flex-row justify-around");
-    			add_location(div3, file$1, 210, 32, 7316);
+    			add_location(div3, file$1, 210, 32, 7315);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div3, anchor);
@@ -51306,9 +51306,9 @@ var app = (function () {
     			attr_dev(img, "class", "w-8 h-8");
     			if (img.src !== (img_src_value = "./icons/check.svg")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "getOrder");
-    			add_location(img, file$1, 233, 44, 8903);
+    			add_location(img, file$1, 233, 44, 8902);
     			attr_dev(button, "class", "order-btn bg-orange-500 svelte-13op47i");
-    			add_location(button, file$1, 232, 40, 8767);
+    			add_location(button, file$1, 232, 40, 8766);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, button, anchor);
@@ -51359,9 +51359,9 @@ var app = (function () {
     			attr_dev(img, "class", "w-8 h-8");
     			if (img.src !== (img_src_value = "./icons/close.svg")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "getOrder");
-    			add_location(img, file$1, 229, 44, 8565);
+    			add_location(img, file$1, 229, 44, 8564);
     			attr_dev(button, "class", "order-btn bg-red-500 svelte-13op47i");
-    			add_location(button, file$1, 228, 40, 8432);
+    			add_location(button, file$1, 228, 40, 8431);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, button, anchor);
@@ -51410,9 +51410,9 @@ var app = (function () {
     			button = element("button");
     			button.textContent = "На месте";
     			attr_dev(button, "class", "");
-    			add_location(button, file$1, 244, 40, 9573);
+    			add_location(button, file$1, 244, 40, 9572);
     			attr_dev(div, "class", " text-center");
-    			add_location(div, file$1, 243, 36, 9505);
+    			add_location(div, file$1, 243, 36, 9504);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -51461,9 +51461,9 @@ var app = (function () {
     			button = element("button");
     			button.textContent = "Завершить";
     			attr_dev(button, "class", " text-white bg-red-600");
-    			add_location(button, file$1, 251, 40, 10012);
+    			add_location(button, file$1, 251, 40, 10011);
     			attr_dev(div, "class", " text-center");
-    			add_location(div, file$1, 250, 36, 9944);
+    			add_location(div, file$1, 250, 36, 9943);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -51509,7 +51509,7 @@ var app = (function () {
     			p = element("p");
     			p.textContent = "Заказ завершен. Баланс обновится через несколько минут.";
     			attr_dev(p, "class", " text-gray-700");
-    			add_location(p, file$1, 260, 32, 10466);
+    			add_location(p, file$1, 260, 32, 10465);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -51586,9 +51586,9 @@ var app = (function () {
     			div1 = element("div");
     			div1.textContent = "Загрузка...";
     			attr_dev(div1, "class", "p-2 ml-20 rounded-lg bg-gray-100 shadow-lg");
-    			add_location(div1, file$1, 273, 16, 10919);
+    			add_location(div1, file$1, 273, 16, 10918);
     			attr_dev(div0, "slot", "loading");
-    			add_location(div0, file$1, 272, 12, 10881);
+    			add_location(div0, file$1, 272, 12, 10880);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div0, anchor);
@@ -51621,9 +51621,9 @@ var app = (function () {
     			div1 = element("div");
     			div1.textContent = "Невозможно загрузить данные...";
     			attr_dev(div1, "class", "p-2 ml-20 rounded-lg bg-gray-100 shadow-lg");
-    			add_location(div1, file$1, 279, 16, 11108);
+    			add_location(div1, file$1, 279, 16, 11107);
     			attr_dev(div0, "slot", "fallback");
-    			add_location(div0, file$1, 278, 12, 11069);
+    			add_location(div0, file$1, 278, 12, 11068);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div0, anchor);
@@ -51724,8 +51724,8 @@ var app = (function () {
     			attr_dev(p, "class", "mt-3 font-semibold text-center");
     			add_location(p, file$1, 174, 20, 5421);
     			add_location(hr, file$1, 175, 20, 5507);
-    			add_location(ul, file$1, 179, 24, 5654);
-    			attr_dev(div1, "class", " h-100 overflow-y-auto");
+    			add_location(ul, file$1, 179, 24, 5653);
+    			attr_dev(div1, "class", " h-80 overflow-y-auto");
     			add_location(div1, file$1, 178, 20, 5592);
     			attr_dev(div2, "class", "p-2 bg-gray-100 rounded-lg shadow-lg h-auto w-full");
     			add_location(div2, file$1, 154, 16, 4465);
@@ -52313,28 +52313,28 @@ var app = (function () {
     			hr1 = element("hr");
     			t22 = space();
     			attr_dev(span0, "class", "font-semibold");
-    			add_location(span0, file$2, 151, 36, 6276);
-    			add_location(p0, file$2, 150, 36, 6235);
+    			add_location(span0, file$2, 151, 36, 6275);
+    			add_location(p0, file$2, 150, 36, 6234);
     			attr_dev(span1, "class", "font-semibold");
-    			add_location(span1, file$2, 154, 36, 6459);
-    			add_location(p1, file$2, 153, 36, 6418);
+    			add_location(span1, file$2, 154, 36, 6458);
+    			add_location(p1, file$2, 153, 36, 6417);
     			attr_dev(span2, "class", "font-semibold");
-    			add_location(span2, file$2, 157, 36, 6638);
-    			add_location(p2, file$2, 156, 36, 6597);
+    			add_location(span2, file$2, 157, 36, 6637);
+    			add_location(p2, file$2, 156, 36, 6596);
     			attr_dev(span3, "class", "font-semibold text-orange-600");
-    			add_location(span3, file$2, 160, 36, 6821);
-    			add_location(p3, file$2, 159, 36, 6780);
+    			add_location(span3, file$2, 160, 36, 6820);
+    			add_location(p3, file$2, 159, 36, 6779);
     			attr_dev(div0, "class", "mt-2");
-    			add_location(div0, file$2, 149, 32, 6179);
+    			add_location(div0, file$2, 149, 32, 6178);
     			attr_dev(div1, "class", "mt-2 text-sm");
-    			add_location(div1, file$2, 104, 28, 3257);
+    			add_location(div1, file$2, 104, 28, 3256);
     			attr_dev(div2, "class", "mt-2 mb-2 text-center");
-    			add_location(div2, file$2, 166, 28, 7094);
-    			add_location(hr0, file$2, 180, 28, 7909);
-    			add_location(hr1, file$2, 219, 32, 10482);
+    			add_location(div2, file$2, 166, 28, 7093);
+    			add_location(hr0, file$2, 180, 28, 7908);
+    			add_location(hr1, file$2, 219, 32, 10481);
     			attr_dev(div3, "class", "my-2 text-center");
-    			add_location(div3, file$2, 182, 28, 7997);
-    			add_location(li, file$2, 102, 28, 3221);
+    			add_location(div3, file$2, 182, 28, 7996);
+    			add_location(li, file$2, 102, 28, 3220);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, li, anchor);
@@ -52618,37 +52618,37 @@ var app = (function () {
     			a = element("a");
     			img2 = element("img");
     			attr_dev(span0, "class", " font-normal text-gray-800");
-    			add_location(span0, file$2, 111, 44, 3721);
+    			add_location(span0, file$2, 111, 44, 3720);
     			attr_dev(p0, "class", "font-semibold text-base text-green-700");
-    			add_location(p0, file$2, 110, 44, 3625);
+    			add_location(p0, file$2, 110, 44, 3624);
     			attr_dev(span1, "class", " font-normal text-gray-800");
-    			add_location(span1, file$2, 116, 44, 4064);
+    			add_location(span1, file$2, 116, 44, 4063);
     			attr_dev(p1, "class", "font-semibold text-base text-orange-600");
-    			add_location(p1, file$2, 115, 44, 3966);
+    			add_location(p1, file$2, 115, 44, 3965);
     			attr_dev(img0, "class", "w-full h-32 object-cover object-none object-center");
     			if (img0.src !== (img0_src_value = /*data*/ ctx[24].driverAuto.frontside)) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "alt", "auto");
-    			add_location(img0, file$2, 121, 48, 4399);
+    			add_location(img0, file$2, 121, 48, 4398);
     			attr_dev(div0, "class", "mt-2 content-center");
-    			add_location(div0, file$2, 120, 44, 4316);
+    			add_location(div0, file$2, 120, 44, 4315);
     			attr_dev(img1, "class", "w-8 h-8");
     			if (img1.src !== (img1_src_value = "./icons/place.svg")) attr_dev(img1, "src", img1_src_value);
     			attr_dev(img1, "alt", "placeMarker");
-    			add_location(img1, file$2, 128, 52, 4954);
+    			add_location(img1, file$2, 128, 52, 4953);
     			attr_dev(button0, "class", "order-btn bg-teal-400 svelte-1l5s38u");
-    			add_location(button0, file$2, 127, 48, 4815);
+    			add_location(button0, file$2, 127, 48, 4814);
     			attr_dev(img2, "class", "w-8 h-8");
     			if (img2.src !== (img2_src_value = "./icons/phone.svg")) attr_dev(img2, "src", img2_src_value);
     			attr_dev(img2, "alt", "phone");
-    			add_location(img2, file$2, 133, 56, 5323);
+    			add_location(img2, file$2, 133, 56, 5322);
     			attr_dev(a, "href", a_href_value = "tel:" + /*data*/ ctx[24].phone);
     			attr_dev(a, "alt", "phone");
-    			add_location(a, file$2, 132, 52, 5226);
+    			add_location(a, file$2, 132, 52, 5225);
     			attr_dev(button1, "class", "order-btn ml-4 bg-green-400 svelte-1l5s38u");
-    			add_location(button1, file$2, 131, 48, 5128);
+    			add_location(button1, file$2, 131, 48, 5127);
     			attr_dev(div1, "class", "mt-2 text-center");
-    			add_location(div1, file$2, 125, 44, 4677);
-    			add_location(div2, file$2, 109, 40, 3574);
+    			add_location(div1, file$2, 125, 44, 4676);
+    			add_location(div2, file$2, 109, 40, 3573);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div2, anchor);
@@ -52730,7 +52730,7 @@ var app = (function () {
     			p = element("p");
     			p.textContent = "Водитель подъехал и ждёт вас!";
     			attr_dev(p, "class", "mt-4 font-semibold text-orange-600 text-lg");
-    			add_location(p, file$2, 143, 36, 5859);
+    			add_location(p, file$2, 143, 36, 5858);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -52764,7 +52764,7 @@ var app = (function () {
     			button = element("button");
     			button.textContent = "Поехали";
     			attr_dev(button, "class", "px-2 text-white bg-green-600 shadow-lg");
-    			add_location(button, file$2, 169, 36, 7251);
+    			add_location(button, file$2, 169, 36, 7250);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, button, anchor);
@@ -52810,7 +52810,7 @@ var app = (function () {
     			button = element("button");
     			button.textContent = "Отменить заказ";
     			attr_dev(button, "class", "px-2 text-white bg-red-600 shadow-lg");
-    			add_location(button, file$2, 175, 32, 7616);
+    			add_location(button, file$2, 175, 32, 7615);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, button, anchor);
@@ -52950,31 +52950,31 @@ var app = (function () {
     			button9 = element("button");
     			button9.textContent = "Ужасно";
     			attr_dev(p, "class", " font-semibold text-pink-500 text-center text-lg");
-    			add_location(p, file$2, 184, 32, 8145);
+    			add_location(p, file$2, 184, 32, 8144);
     			attr_dev(input, "type", "text");
     			attr_dev(input, "placeholder", "отзыв по желанию");
     			attr_dev(input, "class", "my-1 bg-white");
-    			add_location(input, file$2, 186, 32, 8261);
+    			add_location(input, file$2, 186, 32, 8260);
     			attr_dev(button0, "class", "review-btn bg-purple-500 svelte-1l5s38u");
-    			add_location(button0, file$2, 188, 32, 8393);
+    			add_location(button0, file$2, 188, 32, 8392);
     			attr_dev(button1, "class", "review-btn bg-blue-500 svelte-1l5s38u");
-    			add_location(button1, file$2, 191, 32, 8603);
+    			add_location(button1, file$2, 191, 32, 8602);
     			attr_dev(button2, "class", "review-btn bg-teal-500 svelte-1l5s38u");
-    			add_location(button2, file$2, 194, 32, 8808);
+    			add_location(button2, file$2, 194, 32, 8807);
     			attr_dev(button3, "class", "review-btn bg-green-500 svelte-1l5s38u");
-    			add_location(button3, file$2, 197, 32, 9016);
+    			add_location(button3, file$2, 197, 32, 9015);
     			attr_dev(button4, "class", "review-btn bg-green-500 svelte-1l5s38u");
-    			add_location(button4, file$2, 200, 32, 9220);
+    			add_location(button4, file$2, 200, 32, 9219);
     			attr_dev(button5, "class", "review-btn bg-yellow-500 svelte-1l5s38u");
-    			add_location(button5, file$2, 203, 32, 9423);
+    			add_location(button5, file$2, 203, 32, 9422);
     			attr_dev(button6, "class", "review-btn bg-orange-500 svelte-1l5s38u");
-    			add_location(button6, file$2, 206, 32, 9630);
+    			add_location(button6, file$2, 206, 32, 9629);
     			attr_dev(button7, "class", "review-btn bg-red-500 svelte-1l5s38u");
-    			add_location(button7, file$2, 209, 32, 9836);
+    			add_location(button7, file$2, 209, 32, 9835);
     			attr_dev(button8, "class", "review-btn bg-red-500 svelte-1l5s38u");
-    			add_location(button8, file$2, 212, 32, 10036);
+    			add_location(button8, file$2, 212, 32, 10035);
     			attr_dev(button9, "class", "review-btn bg-red-500 svelte-1l5s38u");
-    			add_location(button9, file$2, 215, 32, 10242);
+    			add_location(button9, file$2, 215, 32, 10241);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
@@ -53136,9 +53136,9 @@ var app = (function () {
     			div1 = element("div");
     			div1.textContent = "Загрузка...";
     			attr_dev(div1, "class", "p-2 ml-20 rounded-lg bg-gray-100 shadow-lg");
-    			add_location(div1, file$2, 230, 16, 10786);
+    			add_location(div1, file$2, 230, 16, 10785);
     			attr_dev(div0, "slot", "loading");
-    			add_location(div0, file$2, 229, 12, 10748);
+    			add_location(div0, file$2, 229, 12, 10747);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div0, anchor);
@@ -53171,9 +53171,9 @@ var app = (function () {
     			div1 = element("div");
     			div1.textContent = "Невозможно загрузить данные...";
     			attr_dev(div1, "class", "p-2 ml-20 rounded-lg bg-gray-100 shadow-lg");
-    			add_location(div1, file$2, 236, 16, 10975);
+    			add_location(div1, file$2, 236, 16, 10974);
     			attr_dev(div0, "slot", "fallback");
-    			add_location(div0, file$2, 235, 12, 10936);
+    			add_location(div0, file$2, 235, 12, 10935);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div0, anchor);
@@ -53240,8 +53240,8 @@ var app = (function () {
     			attr_dev(p, "class", "font-semibold text-center");
     			add_location(p, file$2, 91, 20, 2827);
     			add_location(hr, file$2, 92, 20, 2905);
-    			add_location(ul, file$2, 96, 24, 3031);
-    			attr_dev(div0, "class", "h-100 overflow-y-auto");
+    			add_location(ul, file$2, 96, 24, 3030);
+    			attr_dev(div0, "class", "h-80 overflow-y-auto");
     			add_location(div0, file$2, 95, 20, 2970);
     			attr_dev(div1, "class", "p-2 bg-gray-100 rounded-lg shadow-lg w-full");
     			add_location(div1, file$2, 89, 16, 2746);
@@ -54210,23 +54210,23 @@ var app = (function () {
 
     function get_each_context$2(ctx, list, i) {
     	const child_ctx = ctx.slice();
-    	child_ctx[14] = list[i];
+    	child_ctx[16] = list[i];
     	return child_ctx;
     }
 
-    // (65:32) {#if mes.date != null || undefined}
+    // (73:32) {#if mes.date != null || undefined}
     function create_if_block$7(ctx) {
     	let li;
     	let div;
     	let p;
     	let span0;
-    	let t0_value = /*mes*/ ctx[14].name + "";
+    	let t0_value = /*mes*/ ctx[16].name + "";
     	let t0;
     	let t1;
     	let t2;
     	let span1;
 
-    	let t3_value = /*mes*/ ctx[14].date.toDate().toLocaleString("ru", {
+    	let t3_value = /*mes*/ ctx[16].date.toDate().toLocaleString("ru", {
     		day: "numeric",
     		month: "long",
     		hour: "2-digit",
@@ -54238,13 +54238,13 @@ var app = (function () {
     	let t5;
     	let dispose;
 
-    	function click_handler(...args) {
-    		return /*click_handler*/ ctx[8](/*mes*/ ctx[14], ...args);
+    	function click_handler_1(...args) {
+    		return /*click_handler_1*/ ctx[10](/*mes*/ ctx[16], ...args);
     	}
 
     	function select_block_type(ctx, dirty) {
-    		if (/*mes*/ ctx[14].from == /*user*/ ctx[11].uid) return create_if_block_1$5;
-    		if (/*mes*/ ctx[14].to == /*user*/ ctx[11].displayName) return create_if_block_2$3;
+    		if (/*mes*/ ctx[16].from == /*user*/ ctx[13].uid) return create_if_block_1$5;
+    		if (/*mes*/ ctx[16].to == /*user*/ ctx[13].displayName) return create_if_block_2$3;
     		return create_else_block$5;
     	}
 
@@ -54266,14 +54266,14 @@ var app = (function () {
     			if_block.c();
     			t5 = space();
     			attr_dev(span0, "class", "font-semibold cursor-pointer");
-    			add_location(span0, file$4, 68, 40, 2170);
+    			add_location(span0, file$4, 76, 40, 2491);
     			attr_dev(span1, "class", "text-sm float-right");
-    			add_location(span1, file$4, 74, 40, 2401);
+    			add_location(span1, file$4, 82, 40, 2722);
     			attr_dev(p, "class", "text-gray-700");
-    			add_location(p, file$4, 67, 40, 2103);
+    			add_location(p, file$4, 75, 40, 2424);
     			attr_dev(div, "class", "mt-2");
-    			add_location(div, file$4, 66, 36, 2043);
-    			add_location(li, file$4, 65, 32, 2001);
+    			add_location(div, file$4, 74, 36, 2364);
+    			add_location(li, file$4, 73, 32, 2322);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, li, anchor);
@@ -54288,13 +54288,13 @@ var app = (function () {
     			append_dev(div, t4);
     			if_block.m(div, null);
     			append_dev(li, t5);
-    			dispose = listen_dev(span0, "click", click_handler, false, false, false);
+    			dispose = listen_dev(span0, "click", click_handler_1, false, false, false);
     		},
     		p: function update(new_ctx, dirty) {
     			ctx = new_ctx;
-    			if (dirty & /*messages*/ 4096 && t0_value !== (t0_value = /*mes*/ ctx[14].name + "")) set_data_dev(t0, t0_value);
+    			if (dirty & /*messages*/ 16384 && t0_value !== (t0_value = /*mes*/ ctx[16].name + "")) set_data_dev(t0, t0_value);
 
-    			if (dirty & /*messages*/ 4096 && t3_value !== (t3_value = /*mes*/ ctx[14].date.toDate().toLocaleString("ru", {
+    			if (dirty & /*messages*/ 16384 && t3_value !== (t3_value = /*mes*/ ctx[16].date.toDate().toLocaleString("ru", {
     				day: "numeric",
     				month: "long",
     				hour: "2-digit",
@@ -54324,17 +54324,17 @@ var app = (function () {
     		block,
     		id: create_if_block$7.name,
     		type: "if",
-    		source: "(65:32) {#if mes.date != null || undefined}",
+    		source: "(73:32) {#if mes.date != null || undefined}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (91:40) {:else}
+    // (99:40) {:else}
     function create_else_block$5(ctx) {
     	let p;
-    	let t_value = /*mes*/ ctx[14].text + "";
+    	let t_value = /*mes*/ ctx[16].text + "";
     	let t;
 
     	const block = {
@@ -54342,14 +54342,14 @@ var app = (function () {
     			p = element("p");
     			t = text(t_value);
     			attr_dev(p, "class", "message def svelte-w3jngd");
-    			add_location(p, file$4, 91, 44, 3343);
+    			add_location(p, file$4, 99, 44, 3664);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
     			append_dev(p, t);
     		},
     		p: function update(ctx, dirty) {
-    			if (dirty & /*messages*/ 4096 && t_value !== (t_value = /*mes*/ ctx[14].text + "")) set_data_dev(t, t_value);
+    			if (dirty & /*messages*/ 16384 && t_value !== (t_value = /*mes*/ ctx[16].text + "")) set_data_dev(t, t_value);
     		},
     		d: function destroy(detaching) {
     			if (detaching) detach_dev(p);
@@ -54360,17 +54360,17 @@ var app = (function () {
     		block,
     		id: create_else_block$5.name,
     		type: "else",
-    		source: "(91:40) {:else}",
+    		source: "(99:40) {:else}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (87:77) 
+    // (95:77) 
     function create_if_block_2$3(ctx) {
     	let p;
-    	let t_value = /*mes*/ ctx[14].text + "";
+    	let t_value = /*mes*/ ctx[16].text + "";
     	let t;
 
     	const block = {
@@ -54378,14 +54378,14 @@ var app = (function () {
     			p = element("p");
     			t = text(t_value);
     			attr_dev(p, "class", "message to-me svelte-w3jngd");
-    			add_location(p, file$4, 87, 44, 3117);
+    			add_location(p, file$4, 95, 44, 3438);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
     			append_dev(p, t);
     		},
     		p: function update(ctx, dirty) {
-    			if (dirty & /*messages*/ 4096 && t_value !== (t_value = /*mes*/ ctx[14].text + "")) set_data_dev(t, t_value);
+    			if (dirty & /*messages*/ 16384 && t_value !== (t_value = /*mes*/ ctx[16].text + "")) set_data_dev(t, t_value);
     		},
     		d: function destroy(detaching) {
     			if (detaching) detach_dev(p);
@@ -54396,17 +54396,17 @@ var app = (function () {
     		block,
     		id: create_if_block_2$3.name,
     		type: "if",
-    		source: "(87:77) ",
+    		source: "(95:77) ",
     		ctx
     	});
 
     	return block;
     }
 
-    // (82:40) {#if mes.from == user.uid}
+    // (90:40) {#if mes.from == user.uid}
     function create_if_block_1$5(ctx) {
     	let p;
-    	let t_value = /*mes*/ ctx[14].text + "";
+    	let t_value = /*mes*/ ctx[16].text + "";
     	let t;
 
     	const block = {
@@ -54414,14 +54414,14 @@ var app = (function () {
     			p = element("p");
     			t = text(t_value);
     			attr_dev(p, "class", "message my svelte-w3jngd");
-    			add_location(p, file$4, 83, 44, 2864);
+    			add_location(p, file$4, 91, 44, 3185);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, p, anchor);
     			append_dev(p, t);
     		},
     		p: function update(ctx, dirty) {
-    			if (dirty & /*messages*/ 4096 && t_value !== (t_value = /*mes*/ ctx[14].text + "")) set_data_dev(t, t_value);
+    			if (dirty & /*messages*/ 16384 && t_value !== (t_value = /*mes*/ ctx[16].text + "")) set_data_dev(t, t_value);
     		},
     		d: function destroy(detaching) {
     			if (detaching) detach_dev(p);
@@ -54432,17 +54432,17 @@ var app = (function () {
     		block,
     		id: create_if_block_1$5.name,
     		type: "if",
-    		source: "(82:40) {#if mes.from == user.uid}",
+    		source: "(90:40) {#if mes.from == user.uid}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (64:28) {#each messages as mes}
+    // (72:28) {#each messages as mes}
     function create_each_block$2(ctx) {
     	let if_block_anchor;
-    	let if_block = (/*mes*/ ctx[14].date != null || undefined) && create_if_block$7(ctx);
+    	let if_block = (/*mes*/ ctx[16].date != null || undefined) && create_if_block$7(ctx);
 
     	const block = {
     		c: function create() {
@@ -54454,7 +54454,7 @@ var app = (function () {
     			insert_dev(target, if_block_anchor, anchor);
     		},
     		p: function update(ctx, dirty) {
-    			if (/*mes*/ ctx[14].date != null || undefined) {
+    			if (/*mes*/ ctx[16].date != null || undefined) {
     				if (if_block) {
     					if_block.p(ctx, dirty);
     				} else {
@@ -54477,17 +54477,17 @@ var app = (function () {
     		block,
     		id: create_each_block$2.name,
     		type: "each",
-    		source: "(64:28) {#each messages as mes}",
+    		source: "(72:28) {#each messages as mes}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (56:24) <Collection path={`chat/region/${region}/city/${city}`}                           query={ (ref) => ref.orderBy("date", "desc").limit(30) }                          let:data={messages}                           let:ref>
+    // (64:24) <Collection path={`chat/region/${region}/city/${city}`}                           query={ (ref) => ref.orderBy("date", "desc").limit(30) }                          let:data={messages}                           let:ref>
     function create_default_slot_2$3(ctx) {
     	let ul;
-    	let each_value = /*messages*/ ctx[12];
+    	let each_value = /*messages*/ ctx[14];
     	let each_blocks = [];
 
     	for (let i = 0; i < each_value.length; i += 1) {
@@ -54502,7 +54502,7 @@ var app = (function () {
     				each_blocks[i].c();
     			}
 
-    			add_location(ul, file$4, 60, 28, 1793);
+    			add_location(ul, file$4, 68, 28, 2114);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, ul, anchor);
@@ -54512,8 +54512,8 @@ var app = (function () {
     			}
     		},
     		p: function update(ctx, dirty) {
-    			if (dirty & /*messages, user, messageTo, undefined*/ 6152) {
-    				each_value = /*messages*/ ctx[12];
+    			if (dirty & /*messages, user, messageTo, undefined*/ 24584) {
+    				each_value = /*messages*/ ctx[14];
     				let i;
 
     				for (i = 0; i < each_value.length; i += 1) {
@@ -54545,23 +54545,27 @@ var app = (function () {
     		block,
     		id: create_default_slot_2$3.name,
     		type: "slot",
-    		source: "(56:24) <Collection path={`chat/region/${region}/city/${city}`}                           query={ (ref) => ref.orderBy(\\\"date\\\", \\\"desc\\\").limit(30) }                          let:data={messages}                           let:ref>",
+    		source: "(64:24) <Collection path={`chat/region/${region}/city/${city}`}                           query={ (ref) => ref.orderBy(\\\"date\\\", \\\"desc\\\").limit(30) }                          let:data={messages}                           let:ref>",
     		ctx
     	});
 
     	return block;
     }
 
-    // (49:8) <User let:user>
+    // (52:8) <User let:user>
     function create_default_slot_1$3(ctx) {
-    	let div2;
+    	let div3;
     	let div0;
+    	let img;
+    	let img_src_value;
     	let t0;
-    	let hr;
-    	let t1;
     	let div1;
-    	let input;
+    	let t1;
+    	let hr;
     	let t2;
+    	let div2;
+    	let input;
+    	let t3;
     	let button;
     	let current;
     	let dispose;
@@ -54573,8 +54577,8 @@ var app = (function () {
     				$$slots: {
     					default: [
     						create_default_slot_2$3,
-    						({ data: messages, ref }) => ({ 12: messages, 13: ref }),
-    						({ data: messages, ref }) => (messages ? 4096 : 0) | (ref ? 8192 : 0)
+    						({ data: messages, ref }) => ({ 14: messages, 15: ref }),
+    						({ data: messages, ref }) => (messages ? 16384 : 0) | (ref ? 32768 : 0)
     					]
     				},
     				$$scope: { ctx }
@@ -54582,53 +54586,64 @@ var app = (function () {
     			$$inline: true
     		});
 
-    	function click_handler_1(...args) {
-    		return /*click_handler_1*/ ctx[10](/*user*/ ctx[11], ...args);
+    	function click_handler_2(...args) {
+    		return /*click_handler_2*/ ctx[12](/*user*/ ctx[13], ...args);
     	}
 
     	const block = {
     		c: function create() {
-    			div2 = element("div");
+    			div3 = element("div");
     			div0 = element("div");
-    			create_component(collection.$$.fragment);
+    			img = element("img");
     			t0 = space();
-    			hr = element("hr");
-    			t1 = space();
     			div1 = element("div");
-    			input = element("input");
+    			create_component(collection.$$.fragment);
+    			t1 = space();
+    			hr = element("hr");
     			t2 = space();
+    			div2 = element("div");
+    			input = element("input");
+    			t3 = space();
     			button = element("button");
     			button.textContent = "Отправить";
-    			add_location(hr, file$4, 103, 24, 3782);
-    			attr_dev(div0, "id", "messages");
-    			attr_dev(div0, "class", "p-2 bg-gray-200 rounded-lg shadow-lg h-100 w-full overflow-y-auto");
-    			add_location(div0, file$4, 53, 20, 1422);
+    			if (img.src !== (img_src_value = "./icons/fullscreen.svg")) attr_dev(img, "src", img_src_value);
+    			attr_dev(img, "alt", "fullscreen");
+    			add_location(img, file$4, 57, 24, 1563);
+    			add_location(div0, file$4, 56, 20, 1532);
+    			add_location(hr, file$4, 111, 24, 4103);
+    			attr_dev(div1, "id", "messages");
+    			attr_dev(div1, "class", "p-2 bg-gray-200 rounded-lg shadow-lg h-80 w-full overflow-y-auto");
+    			add_location(div1, file$4, 61, 20, 1744);
     			attr_dev(input, "class", "p-1 bg-white");
     			attr_dev(input, "type", "text");
-    			add_location(input, file$4, 109, 24, 3952);
-    			add_location(button, file$4, 111, 24, 4070);
-    			attr_dev(div1, "class", "w-full");
-    			add_location(div1, file$4, 107, 20, 3880);
-    			attr_dev(div2, "class", "taxi-orders-container z-0 fixed ml-12 mr-2");
-    			add_location(div2, file$4, 50, 16, 1303);
+    			add_location(input, file$4, 117, 24, 4273);
+    			add_location(button, file$4, 119, 24, 4391);
+    			attr_dev(div2, "class", "w-full");
+    			add_location(div2, file$4, 115, 20, 4201);
+    			attr_dev(div3, "class", "taxi-orders-container z-0 fixed ml-12 mr-2");
+    			add_location(div3, file$4, 53, 16, 1405);
     		},
     		m: function mount(target, anchor) {
-    			insert_dev(target, div2, anchor);
-    			append_dev(div2, div0);
-    			mount_component(collection, div0, null);
-    			append_dev(div0, t0);
-    			append_dev(div0, hr);
-    			append_dev(div2, t1);
-    			append_dev(div2, div1);
-    			append_dev(div1, input);
+    			insert_dev(target, div3, anchor);
+    			append_dev(div3, div0);
+    			append_dev(div0, img);
+    			append_dev(div3, t0);
+    			append_dev(div3, div1);
+    			mount_component(collection, div1, null);
+    			append_dev(div1, t1);
+    			append_dev(div1, hr);
+    			append_dev(div3, t2);
+    			append_dev(div3, div2);
+    			append_dev(div2, input);
     			set_input_value(input, /*message*/ ctx[2].text);
-    			append_dev(div1, t2);
-    			append_dev(div1, button);
+    			append_dev(div2, t3);
+    			append_dev(div2, button);
     			current = true;
 
     			dispose = [
-    				listen_dev(input, "input", /*input_input_handler*/ ctx[9]),
-    				listen_dev(button, "click", click_handler_1, false, false, false)
+    				listen_dev(img, "click", /*click_handler*/ ctx[9], false, false, false),
+    				listen_dev(input, "input", /*input_input_handler*/ ctx[11]),
+    				listen_dev(button, "click", click_handler_2, false, false, false)
     			];
     		},
     		p: function update(new_ctx, dirty) {
@@ -54636,7 +54651,7 @@ var app = (function () {
     			const collection_changes = {};
     			if (dirty & /*region, city*/ 3) collection_changes.path = `chat/region/${/*region*/ ctx[0]}/city/${/*city*/ ctx[1]}`;
 
-    			if (dirty & /*$$scope, messages, user, messageTo*/ 137224) {
+    			if (dirty & /*$$scope, messages, user, messageTo*/ 548872) {
     				collection_changes.$$scope = { dirty, ctx };
     			}
 
@@ -54656,7 +54671,7 @@ var app = (function () {
     			current = false;
     		},
     		d: function destroy(detaching) {
-    			if (detaching) detach_dev(div2);
+    			if (detaching) detach_dev(div3);
     			destroy_component(collection);
     			run_all(dispose);
     		}
@@ -54666,14 +54681,14 @@ var app = (function () {
     		block,
     		id: create_default_slot_1$3.name,
     		type: "slot",
-    		source: "(49:8) <User let:user>",
+    		source: "(52:8) <User let:user>",
     		ctx
     	});
 
     	return block;
     }
 
-    // (48:4) <FirebaseApp {firebase}>
+    // (51:4) <FirebaseApp {firebase}>
     function create_default_slot$3(ctx) {
     	let current;
 
@@ -54682,8 +54697,8 @@ var app = (function () {
     				$$slots: {
     					default: [
     						create_default_slot_1$3,
-    						({ user }) => ({ 11: user }),
-    						({ user }) => user ? 2048 : 0
+    						({ user }) => ({ 13: user }),
+    						({ user }) => user ? 8192 : 0
     					]
     				},
     				$$scope: { ctx }
@@ -54702,7 +54717,7 @@ var app = (function () {
     		p: function update(ctx, dirty) {
     			const user_changes = {};
 
-    			if (dirty & /*$$scope, message, region, city, user, messageTo*/ 133135) {
+    			if (dirty & /*$$scope, message, region, city, user, messageTo*/ 532495) {
     				user_changes.$$scope = { dirty, ctx };
     			}
 
@@ -54726,7 +54741,7 @@ var app = (function () {
     		block,
     		id: create_default_slot$3.name,
     		type: "slot",
-    		source: "(48:4) <FirebaseApp {firebase}>",
+    		source: "(51:4) <FirebaseApp {firebase}>",
     		ctx
     	});
 
@@ -54759,7 +54774,7 @@ var app = (function () {
     		p: function update(ctx, [dirty]) {
     			const firebaseapp_changes = {};
 
-    			if (dirty & /*$$scope, message, region, city, messageTo*/ 131087) {
+    			if (dirty & /*$$scope, message, region, city, messageTo*/ 524303) {
     				firebaseapp_changes.$$scope = { dirty, ctx };
     			}
 
@@ -54795,6 +54810,7 @@ var app = (function () {
     function instance$9($$self, $$props, $$invalidate) {
     	let { region } = $$props;
     	let { city } = $$props;
+    	const dispatch = createEventDispatcher();
 
     	let message = {
     		date: index_cjs$4.firestore.FieldValue.serverTimestamp(),
@@ -54833,14 +54849,15 @@ var app = (function () {
     		if (!~writable_props.indexOf(key) && key.slice(0, 2) !== "$$") console_1$3.warn(`<Chat> was created with unknown prop '${key}'`);
     	});
 
-    	const click_handler = mes => $$invalidate(3, messageTo = mes.name);
+    	const click_handler = () => dispatch("fullscreen");
+    	const click_handler_1 = mes => $$invalidate(3, messageTo = mes.name);
 
     	function input_input_handler() {
     		message.text = this.value;
     		$$invalidate(2, message);
     	}
 
-    	const click_handler_1 = user => sendMessage(user);
+    	const click_handler_2 = user => sendMessage(user);
 
     	$$self.$set = $$props => {
     		if ("region" in $$props) $$invalidate(0, region = $$props.region);
@@ -54874,13 +54891,15 @@ var app = (function () {
     		city,
     		message,
     		messageTo,
+    		dispatch,
     		sendMessage,
     		nowMilli,
     		lastMes,
     		mesLimit,
     		click_handler,
+    		click_handler_1,
     		input_input_handler,
-    		click_handler_1
+    		click_handler_2
     	];
     }
 
@@ -58391,7 +58410,7 @@ var app = (function () {
     /* src\Views\Home.svelte generated by Svelte v3.18.1 */
     const file$6 = "src\\Views\\Home.svelte";
 
-    // (940:8) {#if taxiOrdersBox}
+    // (978:8) {#if taxiOrdersBox}
     function create_if_block_6$1(ctx) {
     	let if_block_anchor;
     	let current;
@@ -58447,14 +58466,14 @@ var app = (function () {
     		block,
     		id: create_if_block_6$1.name,
     		type: "if",
-    		source: "(940:8) {#if taxiOrdersBox}",
+    		source: "(978:8) {#if taxiOrdersBox}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (941:12) {#if userLocation != undefined && userLocation.region != undefined}
+    // (979:12) {#if userLocation != undefined && userLocation.region != undefined}
     function create_if_block_7$1(ctx) {
     	let current;
 
@@ -58503,14 +58522,14 @@ var app = (function () {
     		block,
     		id: create_if_block_7$1.name,
     		type: "if",
-    		source: "(941:12) {#if userLocation != undefined && userLocation.region != undefined}",
+    		source: "(979:12) {#if userLocation != undefined && userLocation.region != undefined}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (950:8) {#if callTaxiDialog}
+    // (988:8) {#if callTaxiDialog}
     function create_if_block_5$2(ctx) {
     	let current;
 
@@ -58526,7 +58545,7 @@ var app = (function () {
     			$$inline: true
     		});
 
-    	taxicalldialog.$on("closeDialog", /*closeDialog_handler*/ ctx[71]);
+    	taxicalldialog.$on("closeDialog", /*closeDialog_handler*/ ctx[72]);
 
     	const block = {
     		c: function create() {
@@ -58564,14 +58583,14 @@ var app = (function () {
     		block,
     		id: create_if_block_5$2.name,
     		type: "if",
-    		source: "(950:8) {#if callTaxiDialog}",
+    		source: "(988:8) {#if callTaxiDialog}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (961:8) {#if myTaxiBox}
+    // (999:8) {#if myTaxiBox}
     function create_if_block_3$2(ctx) {
     	let if_block_anchor;
     	let current;
@@ -58627,14 +58646,14 @@ var app = (function () {
     		block,
     		id: create_if_block_3$2.name,
     		type: "if",
-    		source: "(961:8) {#if myTaxiBox}",
+    		source: "(999:8) {#if myTaxiBox}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (962:12) {#if userLocation != undefined && userLocation.region != undefined}
+    // (1000:12) {#if userLocation != undefined && userLocation.region != undefined}
     function create_if_block_4$2(ctx) {
     	let current;
 
@@ -58680,14 +58699,14 @@ var app = (function () {
     		block,
     		id: create_if_block_4$2.name,
     		type: "if",
-    		source: "(962:12) {#if userLocation != undefined && userLocation.region != undefined}",
+    		source: "(1000:12) {#if userLocation != undefined && userLocation.region != undefined}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (970:8) {#if chatBox}
+    // (1008:8) {#if chatBox}
     function create_if_block_1$6(ctx) {
     	let if_block_anchor;
     	let current;
@@ -58743,14 +58762,14 @@ var app = (function () {
     		block,
     		id: create_if_block_1$6.name,
     		type: "if",
-    		source: "(970:8) {#if chatBox}",
+    		source: "(1008:8) {#if chatBox}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (971:12) {#if userLocation != undefined && userLocation.region != undefined}
+    // (1009:12) {#if userLocation != undefined && userLocation.region != undefined}
     function create_if_block_2$4(ctx) {
     	let current;
 
@@ -58761,6 +58780,8 @@ var app = (function () {
     			},
     			$$inline: true
     		});
+
+    	chat.$on("fullscreen", /*fullscreen_handler*/ ctx[73]);
 
     	const block = {
     		c: function create() {
@@ -58794,14 +58815,14 @@ var app = (function () {
     		block,
     		id: create_if_block_2$4.name,
     		type: "if",
-    		source: "(971:12) {#if userLocation != undefined && userLocation.region != undefined}",
+    		source: "(1009:12) {#if userLocation != undefined && userLocation.region != undefined}",
     		ctx
     	});
 
     	return block;
     }
 
-    // (979:8) {#if alertBox}
+    // (1018:8) {#if alertBox}
     function create_if_block$8(ctx) {
     	let div;
     	let p0;
@@ -58822,12 +58843,12 @@ var app = (function () {
     			p1 = element("p");
     			button = element("button");
     			button.textContent = "Ok";
-    			add_location(p0, file$6, 980, 12, 34134);
-    			add_location(button, file$6, 984, 16, 34250);
+    			add_location(p0, file$6, 1019, 12, 35363);
+    			add_location(button, file$6, 1023, 16, 35479);
     			attr_dev(p1, "class", "mt-2 text-center");
-    			add_location(p1, file$6, 983, 12, 34204);
+    			add_location(p1, file$6, 1022, 12, 35433);
     			attr_dev(div, "class", "p-3 bg-gray-200 rounded-lg shadow-lg");
-    			add_location(div, file$6, 979, 8, 34032);
+    			add_location(div, file$6, 1018, 8, 35261);
     		},
     		m: function mount(target, anchor) {
     			insert_dev(target, div, anchor);
@@ -58837,7 +58858,7 @@ var app = (function () {
     			append_dev(div, p1);
     			append_dev(p1, button);
     			current = true;
-    			dispose = listen_dev(button, "click", /*click_handler_1*/ ctx[72], false, false, false);
+    			dispose = listen_dev(button, "click", /*click_handler_2*/ ctx[74], false, false, false);
     		},
     		p: function update(ctx, dirty) {
     			if (!current || dirty[0] & /*alertBoxContent*/ 8) set_data_dev(t0, /*alertBoxContent*/ ctx[3]);
@@ -58868,7 +58889,7 @@ var app = (function () {
     		block,
     		id: create_if_block$8.name,
     		type: "if",
-    		source: "(979:8) {#if alertBox}",
+    		source: "(1018:8) {#if alertBox}",
     		ctx
     	});
 
@@ -58876,7 +58897,7 @@ var app = (function () {
     }
 
     function create_fragment$b(ctx) {
-    	let div27;
+    	let div28;
     	let div0;
     	let t0;
     	let div8;
@@ -58920,8 +58941,8 @@ var app = (function () {
     	let div13;
     	let button10;
     	let t25;
+    	let div22;
     	let div21;
-    	let div20;
     	let div16;
     	let button11;
     	let img0;
@@ -58942,7 +58963,10 @@ var app = (function () {
     	let img3;
     	let img3_src_value;
     	let t29;
-    	let div22;
+    	let div20;
+    	let button15;
+    	let img4;
+    	let img4_src_value;
     	let t30;
     	let div23;
     	let t31;
@@ -58951,6 +58975,8 @@ var app = (function () {
     	let div25;
     	let t33;
     	let div26;
+    	let t34;
+    	let div27;
     	let current;
     	let dispose;
     	let if_block0 = /*taxiOrdersBox*/ ctx[11] && create_if_block_6$1(ctx);
@@ -58961,7 +58987,7 @@ var app = (function () {
 
     	const block = {
     		c: function create() {
-    			div27 = element("div");
+    			div28 = element("div");
     			div0 = element("div");
     			t0 = space();
     			div8 = element("div");
@@ -59017,8 +59043,8 @@ var app = (function () {
     			button10 = element("button");
     			button10.textContent = "Найти";
     			t25 = space();
+    			div22 = element("div");
     			div21 = element("div");
-    			div20 = element("div");
     			div16 = element("div");
     			button11 = element("button");
     			img0 = element("img");
@@ -59035,141 +59061,155 @@ var app = (function () {
     			button14 = element("button");
     			img3 = element("img");
     			t29 = space();
-    			div22 = element("div");
-    			if (if_block0) if_block0.c();
+    			div20 = element("div");
+    			button15 = element("button");
+    			img4 = element("img");
     			t30 = space();
     			div23 = element("div");
-    			if (if_block1) if_block1.c();
+    			if (if_block0) if_block0.c();
     			t31 = space();
     			div24 = element("div");
-    			if (if_block2) if_block2.c();
+    			if (if_block1) if_block1.c();
     			t32 = space();
     			div25 = element("div");
-    			if (if_block3) if_block3.c();
+    			if (if_block2) if_block2.c();
     			t33 = space();
     			div26 = element("div");
+    			if (if_block3) if_block3.c();
+    			t34 = space();
+    			div27 = element("div");
     			if (if_block4) if_block4.c();
     			attr_dev(div0, "id", "map");
     			set_style(div0, "min-height", "550px");
     			attr_dev(div0, "class", "z-0 w-full h-screen");
-    			add_location(div0, file$6, 854, 4, 28674);
+    			add_location(div0, file$6, 882, 4, 29500);
     			attr_dev(p, "class", "text-center font-semibold text-base text-red-600");
-    			add_location(p, file$6, 859, 8, 28876);
+    			add_location(p, file$6, 887, 8, 29702);
     			attr_dev(button0, "class", "context-menu-button bg-red-500");
-    			add_location(button0, file$6, 861, 12, 29005);
+    			add_location(button0, file$6, 889, 12, 29831);
     			attr_dev(div1, "class", "context-menu-item");
-    			add_location(div1, file$6, 860, 8, 28960);
+    			add_location(div1, file$6, 888, 8, 29786);
     			attr_dev(button1, "class", "context-menu-button bg-orange-500");
-    			add_location(button1, file$6, 864, 12, 29173);
+    			add_location(button1, file$6, 892, 12, 29999);
     			attr_dev(div2, "class", "context-menu-item");
-    			add_location(div2, file$6, 863, 8, 29128);
+    			add_location(div2, file$6, 891, 8, 29954);
     			attr_dev(button2, "class", "context-menu-button");
-    			add_location(button2, file$6, 867, 12, 29351);
+    			add_location(button2, file$6, 895, 12, 30177);
     			attr_dev(div3, "class", "context-menu-item");
-    			add_location(div3, file$6, 866, 8, 29306);
+    			add_location(div3, file$6, 894, 8, 30132);
     			attr_dev(button3, "class", "context-menu-button");
-    			add_location(button3, file$6, 870, 12, 29515);
+    			add_location(button3, file$6, 898, 12, 30341);
     			attr_dev(div4, "class", "context-menu-item");
-    			add_location(div4, file$6, 869, 8, 29470);
+    			add_location(div4, file$6, 897, 8, 30296);
     			attr_dev(button4, "class", "context-menu-button bg-green-500");
-    			add_location(button4, file$6, 873, 12, 29656);
+    			add_location(button4, file$6, 901, 12, 30482);
     			attr_dev(div5, "class", "context-menu-item");
-    			add_location(div5, file$6, 872, 8, 29611);
+    			add_location(div5, file$6, 900, 8, 30437);
     			attr_dev(button5, "class", "context-menu-button bg-yellow-500");
-    			add_location(button5, file$6, 876, 12, 29821);
+    			add_location(button5, file$6, 904, 12, 30647);
     			attr_dev(div6, "class", "context-menu-item");
-    			add_location(div6, file$6, 875, 8, 29776);
+    			add_location(div6, file$6, 903, 8, 30602);
     			attr_dev(button6, "class", "context-menu-button text-gray-100 bg-gray-800");
-    			add_location(button6, file$6, 879, 12, 29989);
+    			add_location(button6, file$6, 907, 12, 30815);
     			attr_dev(div7, "class", "context-menu-item");
-    			add_location(div7, file$6, 878, 8, 29944);
+    			add_location(div7, file$6, 906, 8, 30770);
     			attr_dev(div8, "id", "context-menu");
     			attr_dev(div8, "class", "hidden context-menu svelte-1nviid9");
     			toggle_class(div8, "contextMenuVisible", /*contextMenuVisible*/ ctx[6]);
-    			add_location(div8, file$6, 858, 4, 28790);
+    			add_location(div8, file$6, 886, 4, 29616);
     			attr_dev(button7, "class", "p-3 bg-green-600 rounded-lg text-white text-base");
-    			add_location(button7, file$6, 886, 12, 30322);
+    			add_location(button7, file$6, 914, 12, 31148);
     			attr_dev(button8, "class", "p-3 ml-1 bg-red-600 rounded-lg text-white text-base");
-    			add_location(button8, file$6, 887, 12, 30439);
+    			add_location(button8, file$6, 915, 12, 31265);
     			attr_dev(div9, "class", "mt-2 ml-1");
-    			add_location(div9, file$6, 885, 8, 30285);
+    			add_location(div9, file$6, 913, 8, 31111);
     			attr_dev(button9, "class", "p-3 px-8 bg-gray-800 rounded-lg text-white text-base");
-    			add_location(button9, file$6, 890, 12, 30613);
+    			add_location(button9, file$6, 918, 12, 31439);
     			attr_dev(div10, "class", "mt-3 text-center");
-    			add_location(div10, file$6, 889, 8, 30569);
+    			add_location(div10, file$6, 917, 8, 31395);
     			attr_dev(div11, "id", "context-menu-dialog");
     			attr_dev(div11, "class", "hidden context-menu-dialog svelte-1nviid9");
     			toggle_class(div11, "contextMenuDialogVisible", /*contextMenuDialogVisible*/ ctx[7]);
-    			add_location(div11, file$6, 884, 4, 30179);
+    			add_location(div11, file$6, 912, 4, 31005);
     			attr_dev(input, "class", "p-1 w-full rounded outline-none");
     			attr_dev(input, "type", "text");
     			attr_dev(input, "placeholder", "Адрес");
-    			add_location(input, file$6, 898, 16, 30915);
-    			add_location(div12, file$6, 897, 12, 30892);
+    			add_location(input, file$6, 926, 16, 31741);
+    			add_location(div12, file$6, 925, 12, 31718);
     			attr_dev(button10, "class", "p-1 w-full text-white bg-gray-800 rounded");
     			attr_dev(button10, "type", "button");
-    			add_location(button10, file$6, 901, 16, 31074);
-    			add_location(div13, file$6, 900, 12, 31051);
+    			add_location(button10, file$6, 929, 16, 31900);
+    			add_location(div13, file$6, 928, 12, 31877);
     			attr_dev(div14, "class", "p-0 bg-white rounded shadow-lg flex flex-row");
-    			add_location(div14, file$6, 896, 8, 30820);
+    			add_location(div14, file$6, 924, 8, 31646);
     			attr_dev(div15, "class", "absolute top-0 mt-20 ml-16 lg:ml-20");
-    			add_location(div15, file$6, 895, 4, 30761);
-    			if (img0.src !== (img0_src_value = "./icons/target.png")) attr_dev(img0, "src", img0_src_value);
-    			attr_dev(img0, "alt", "targetLocation");
-    			add_location(img0, file$6, 913, 20, 31527);
-    			attr_dev(button11, "class", "map-btn svelte-1nviid9");
+    			add_location(div15, file$6, 923, 4, 31587);
+    			if (img0.src !== (img0_src_value = "./icons/fullscreen.png")) attr_dev(img0, "src", img0_src_value);
+    			attr_dev(img0, "alt", "fullscreen");
+    			add_location(img0, file$6, 941, 20, 32393);
+    			attr_dev(button11, "class", "p-2 w-10 h-10 bg-white rounded shadow-xl");
     			attr_dev(button11, "type", "button");
-    			add_location(button11, file$6, 912, 16, 31438);
-    			add_location(div16, file$6, 911, 12, 31415);
-    			if (img1.src !== (img1_src_value = "./icons/taxi.png")) attr_dev(img1, "src", img1_src_value);
-    			attr_dev(img1, "alt", "taxiLocation");
-    			add_location(img1, file$6, 919, 20, 31809);
+    			add_location(button11, file$6, 940, 16, 32259);
+    			add_location(div16, file$6, 939, 12, 32236);
+    			if (img1.src !== (img1_src_value = "./icons/target.png")) attr_dev(img1, "src", img1_src_value);
+    			attr_dev(img1, "alt", "targetLocation");
+    			add_location(img1, file$6, 948, 20, 32677);
     			attr_dev(button12, "class", "map-btn svelte-1nviid9");
     			attr_dev(button12, "type", "button");
-    			add_location(button12, file$6, 918, 16, 31722);
+    			add_location(button12, file$6, 947, 16, 32588);
     			attr_dev(div17, "class", "mt-2");
-    			add_location(div17, file$6, 917, 12, 31686);
-    			if (img2.src !== (img2_src_value = "./icons/taxi-marker.png")) attr_dev(img2, "src", img2_src_value);
-    			attr_dev(img2, "alt", "taxiOrders");
-    			add_location(img2, file$6, 925, 20, 32085);
+    			add_location(div17, file$6, 946, 12, 32552);
+    			if (img2.src !== (img2_src_value = "./icons/taxi.png")) attr_dev(img2, "src", img2_src_value);
+    			attr_dev(img2, "alt", "taxiLocation");
+    			add_location(img2, file$6, 955, 20, 32961);
     			attr_dev(button13, "class", "map-btn svelte-1nviid9");
     			attr_dev(button13, "type", "button");
-    			add_location(button13, file$6, 924, 16, 31998);
+    			add_location(button13, file$6, 954, 16, 32874);
     			attr_dev(div18, "class", "mt-2");
-    			add_location(div18, file$6, 923, 12, 31962);
-    			if (img3.src !== (img3_src_value = "./icons/chat-4.png")) attr_dev(img3, "src", img3_src_value);
-    			attr_dev(img3, "alt", "chat");
-    			add_location(img3, file$6, 931, 20, 32348);
+    			add_location(div18, file$6, 953, 12, 32838);
+    			if (img3.src !== (img3_src_value = "./icons/taxi-marker.png")) attr_dev(img3, "src", img3_src_value);
+    			attr_dev(img3, "alt", "taxiOrders");
+    			add_location(img3, file$6, 962, 20, 33239);
     			attr_dev(button14, "class", "map-btn svelte-1nviid9");
     			attr_dev(button14, "type", "button");
-    			add_location(button14, file$6, 930, 16, 32268);
+    			add_location(button14, file$6, 961, 16, 33152);
     			attr_dev(div19, "class", "mt-2");
-    			add_location(div19, file$6, 929, 12, 32232);
-    			attr_dev(div20, "class", "flex flex-col");
-    			add_location(div20, file$6, 908, 8, 31327);
-    			attr_dev(div21, "class", "absolute top-0 mt-20 ml-1");
-    			add_location(div21, file$6, 907, 4, 31278);
-    			attr_dev(div22, "class", " absolute top-0 mt-32");
-    			add_location(div22, file$6, 938, 4, 32498);
-    			attr_dev(div23, "class", " absolute top-0 mt-32");
-    			add_location(div23, file$6, 948, 4, 32924);
-    			attr_dev(div24, "class", " absolute top-0 mt-32");
-    			add_location(div24, file$6, 959, 4, 33327);
-    			attr_dev(div25, "class", " absolute top-0 mt-32");
-    			add_location(div25, file$6, 968, 4, 33660);
-    			attr_dev(div26, "class", " absolute top-0 mt-32 ml-16");
-    			add_location(div26, file$6, 977, 4, 33957);
-    			attr_dev(div27, "class", "relative");
-    			add_location(div27, file$6, 851, 0, 28625);
+    			add_location(div19, file$6, 960, 12, 33116);
+    			if (img4.src !== (img4_src_value = "./icons/chat-4.png")) attr_dev(img4, "src", img4_src_value);
+    			attr_dev(img4, "alt", "chat");
+    			add_location(img4, file$6, 969, 20, 33504);
+    			attr_dev(button15, "class", "map-btn svelte-1nviid9");
+    			attr_dev(button15, "type", "button");
+    			add_location(button15, file$6, 968, 16, 33424);
+    			attr_dev(div20, "class", "mt-2");
+    			add_location(div20, file$6, 967, 12, 33388);
+    			attr_dev(div21, "class", "flex flex-col");
+    			add_location(div21, file$6, 936, 8, 32153);
+    			attr_dev(div22, "class", "absolute top-0 mt-20 ml-1");
+    			add_location(div22, file$6, 935, 4, 32104);
+    			attr_dev(div23, "class", " absolute top-0 mt-16");
+    			add_location(div23, file$6, 976, 4, 33654);
+    			attr_dev(div24, "class", " absolute top-0 mt-16");
+    			add_location(div24, file$6, 986, 4, 34080);
+    			attr_dev(div25, "class", " absolute top-0 mt-16");
+    			add_location(div25, file$6, 997, 4, 34483);
+    			attr_dev(div26, "id", "Chat");
+    			attr_dev(div26, "class", " absolute top-0 mt-16");
+    			add_location(div26, file$6, 1006, 4, 34816);
+    			attr_dev(div27, "class", " absolute top-0 mt-32 ml-16");
+    			add_location(div27, file$6, 1016, 4, 35186);
+    			attr_dev(div28, "id", "main");
+    			attr_dev(div28, "class", "relative");
+    			add_location(div28, file$6, 879, 0, 29441);
     		},
     		l: function claim(nodes) {
     			throw new Error("options.hydrate only works if the component was compiled with the `hydratable: true` option");
     		},
     		m: function mount(target, anchor) {
-    			insert_dev(target, div27, anchor);
-    			append_dev(div27, div0);
-    			append_dev(div27, t0);
-    			append_dev(div27, div8);
+    			insert_dev(target, div28, anchor);
+    			append_dev(div28, div0);
+    			append_dev(div28, t0);
+    			append_dev(div28, div8);
     			append_dev(div8, p);
     			append_dev(div8, t2);
     			append_dev(div8, div1);
@@ -59192,8 +59232,8 @@ var app = (function () {
     			append_dev(div8, t14);
     			append_dev(div8, div7);
     			append_dev(div7, button6);
-    			append_dev(div27, t16);
-    			append_dev(div27, div11);
+    			append_dev(div28, t16);
+    			append_dev(div28, div11);
     			append_dev(div11, div9);
     			append_dev(div9, button7);
     			append_dev(div9, t18);
@@ -59201,8 +59241,8 @@ var app = (function () {
     			append_dev(div11, t20);
     			append_dev(div11, div10);
     			append_dev(div10, button9);
-    			append_dev(div27, t22);
-    			append_dev(div27, div15);
+    			append_dev(div28, t22);
+    			append_dev(div28, div15);
     			append_dev(div15, div14);
     			append_dev(div14, div12);
     			append_dev(div12, input);
@@ -59210,39 +59250,43 @@ var app = (function () {
     			append_dev(div14, t23);
     			append_dev(div14, div13);
     			append_dev(div13, button10);
-    			append_dev(div27, t25);
-    			append_dev(div27, div21);
-    			append_dev(div21, div20);
-    			append_dev(div20, div16);
+    			append_dev(div28, t25);
+    			append_dev(div28, div22);
+    			append_dev(div22, div21);
+    			append_dev(div21, div16);
     			append_dev(div16, button11);
     			append_dev(button11, img0);
-    			append_dev(div20, t26);
-    			append_dev(div20, div17);
+    			append_dev(div21, t26);
+    			append_dev(div21, div17);
     			append_dev(div17, button12);
     			append_dev(button12, img1);
-    			append_dev(div20, t27);
-    			append_dev(div20, div18);
+    			append_dev(div21, t27);
+    			append_dev(div21, div18);
     			append_dev(div18, button13);
     			append_dev(button13, img2);
-    			append_dev(div20, t28);
-    			append_dev(div20, div19);
+    			append_dev(div21, t28);
+    			append_dev(div21, div19);
     			append_dev(div19, button14);
     			append_dev(button14, img3);
-    			append_dev(div27, t29);
-    			append_dev(div27, div22);
-    			if (if_block0) if_block0.m(div22, null);
-    			append_dev(div27, t30);
-    			append_dev(div27, div23);
-    			if (if_block1) if_block1.m(div23, null);
-    			append_dev(div27, t31);
-    			append_dev(div27, div24);
-    			if (if_block2) if_block2.m(div24, null);
-    			append_dev(div27, t32);
-    			append_dev(div27, div25);
-    			if (if_block3) if_block3.m(div25, null);
-    			append_dev(div27, t33);
-    			append_dev(div27, div26);
-    			if (if_block4) if_block4.m(div26, null);
+    			append_dev(div21, t29);
+    			append_dev(div21, div20);
+    			append_dev(div20, button15);
+    			append_dev(button15, img4);
+    			append_dev(div28, t30);
+    			append_dev(div28, div23);
+    			if (if_block0) if_block0.m(div23, null);
+    			append_dev(div28, t31);
+    			append_dev(div28, div24);
+    			if (if_block1) if_block1.m(div24, null);
+    			append_dev(div28, t32);
+    			append_dev(div28, div25);
+    			if (if_block2) if_block2.m(div25, null);
+    			append_dev(div28, t33);
+    			append_dev(div28, div26);
+    			if (if_block3) if_block3.m(div26, null);
+    			append_dev(div28, t34);
+    			append_dev(div28, div27);
+    			if (if_block4) if_block4.m(div27, null);
     			current = true;
 
     			dispose = [
@@ -59257,10 +59301,11 @@ var app = (function () {
     				listen_dev(button8, "click", /*markerFalse*/ ctx[20], false, false, false),
     				listen_dev(input, "input", /*input_input_handler*/ ctx[70]),
     				listen_dev(button10, "click", /*searchClicked*/ ctx[21], false, false, false),
-    				listen_dev(button11, "click", /*watchUserLocation*/ ctx[14], false, false, false),
-    				listen_dev(button12, "click", /*getTaxiLocation*/ ctx[26], false, false, false),
-    				listen_dev(button13, "click", /*taxiDriverCheck*/ ctx[24], false, false, false),
-    				listen_dev(button14, "click", /*openChat*/ ctx[27], false, false, false)
+    				listen_dev(button11, "click", /*click_handler_1*/ ctx[71], false, false, false),
+    				listen_dev(button12, "click", /*watchUserLocation*/ ctx[14], false, false, false),
+    				listen_dev(button13, "click", /*getTaxiLocation*/ ctx[26], false, false, false),
+    				listen_dev(button14, "click", /*taxiDriverCheck*/ ctx[24], false, false, false),
+    				listen_dev(button15, "click", /*openChat*/ ctx[27], false, false, false)
     			];
     		},
     		p: function update(ctx, dirty) {
@@ -59284,7 +59329,7 @@ var app = (function () {
     					if_block0 = create_if_block_6$1(ctx);
     					if_block0.c();
     					transition_in(if_block0, 1);
-    					if_block0.m(div22, null);
+    					if_block0.m(div23, null);
     				}
     			} else if (if_block0) {
     				group_outros();
@@ -59304,7 +59349,7 @@ var app = (function () {
     					if_block1 = create_if_block_5$2(ctx);
     					if_block1.c();
     					transition_in(if_block1, 1);
-    					if_block1.m(div23, null);
+    					if_block1.m(div24, null);
     				}
     			} else if (if_block1) {
     				group_outros();
@@ -59324,7 +59369,7 @@ var app = (function () {
     					if_block2 = create_if_block_3$2(ctx);
     					if_block2.c();
     					transition_in(if_block2, 1);
-    					if_block2.m(div24, null);
+    					if_block2.m(div25, null);
     				}
     			} else if (if_block2) {
     				group_outros();
@@ -59344,7 +59389,7 @@ var app = (function () {
     					if_block3 = create_if_block_1$6(ctx);
     					if_block3.c();
     					transition_in(if_block3, 1);
-    					if_block3.m(div25, null);
+    					if_block3.m(div26, null);
     				}
     			} else if (if_block3) {
     				group_outros();
@@ -59364,7 +59409,7 @@ var app = (function () {
     					if_block4 = create_if_block$8(ctx);
     					if_block4.c();
     					transition_in(if_block4, 1);
-    					if_block4.m(div26, null);
+    					if_block4.m(div27, null);
     				}
     			} else if (if_block4) {
     				group_outros();
@@ -59394,7 +59439,7 @@ var app = (function () {
     			current = false;
     		},
     		d: function destroy(detaching) {
-    			if (detaching) detach_dev(div27);
+    			if (detaching) detach_dev(div28);
     			if (if_block0) if_block0.d();
     			if (if_block1) if_block1.d();
     			if (if_block2) if_block2.d();
@@ -59428,6 +59473,19 @@ var app = (function () {
     // Resize event
     function mapResized(e) {
     	console.log("map Resized");
+    }
+
+    // FULLSCREEN TOGGLE
+    function toggleFullscreen(id) {
+    	let elem = document.getElementById(id);
+
+    	if (!document.fullscreenElement) {
+    		elem.requestFullscreen().catch(err => {
+    			alert(`Error attempting to enable full-screen mode: ${err.message} (${err.name})`);
+    		});
+    	} else {
+    		document.exitFullscreen();
+    	}
     }
 
     // Close context menu
@@ -60192,8 +60250,10 @@ var app = (function () {
     		$$invalidate(9, searchVal);
     	}
 
+    	const click_handler_1 = () => toggleFullscreen("main");
     	const closeDialog_handler = () => $$invalidate(10, callTaxiDialog = false);
-    	const click_handler_1 = () => $$invalidate(2, alertBox = false);
+    	const fullscreen_handler = () => toggleFullscreen("Chat");
+    	const click_handler_2 = () => $$invalidate(2, alertBox = false);
 
     	$$self.$capture_state = () => {
     		return {};
@@ -60316,8 +60376,10 @@ var app = (function () {
     		getCurrentRegion,
     		click_handler,
     		input_input_handler,
+    		click_handler_1,
     		closeDialog_handler,
-    		click_handler_1
+    		fullscreen_handler,
+    		click_handler_2
     	];
     }
 
